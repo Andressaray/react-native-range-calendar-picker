@@ -12,7 +12,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/majid-amiri/native-dates.git"
+    "url": "git://github.com/Andressaray/react-native-range-calendar-picker"
   },
   "dependencies": {
     "idx": "^2.5.6",
