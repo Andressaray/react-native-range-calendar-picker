@@ -1,0 +1,30 @@
+{
+  "name": "react-native-range-calendar-picker",
+  "version": "1.0.0",
+  "description": "Is a library for range picker a calendar very customizable",
+  "main": "./src/Calendar.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "keywords": ["Calendar React Native, React Native Calendar, Picker React Native Calendar", "React Native"],
+  "author": "Andres Saray & Majid Amiri",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/majid-amiri/native-dates.git"
+  },
+  "dependencies": {
+    "idx": "^2.5.6",
+    "moment": "^2.29.3",
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.0.0",
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.48.2",
+    "react": "17.0.2",
+    "react-native": "0.68.2"
+  }
+}
